@@ -1,4 +1,4 @@
-This is a code to extract tweets  from twitter with specific hashtags(theone used here is #masaladosa"
+This is a code to extract tweets  from twitter with specific hashtags(the one used here is "#masaladosa"
 The requeirements for this are
 python 3 -requests ibrary
 json library 
